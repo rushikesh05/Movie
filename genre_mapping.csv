@@ -1,0 +1,487 @@
+Genre,NumericValue
+Drama,0
+"Drama, Musical",1
+"Comedy, Romance",2
+"Comedy, Drama, Musical",3
+"Drama, Romance, War",4
+Documentary,5
+"Horror, Mystery, Thriller",6
+"Action, Crime, Thriller",7
+Horror,8
+"Horror, Romance, Thriller",9
+"Comedy, Drama, Romance",10
+Thriller,11
+"Comedy, Drama",12
+,13
+"Comedy, Drama, Fantasy",14
+"Comedy, Drama, Family",15
+"Crime, Drama, Mystery",16
+"Horror, Thriller",17
+Biography,18
+"Comedy, Horror",19
+Action,20
+"Drama, Horror, Mystery",21
+Comedy,22
+"Action, Thriller",23
+"Drama, History",24
+"Drama, History, Sport",25
+"Horror, Mystery, Romance",26
+"Horror, Mystery",27
+"Drama, Horror, Romance",28
+"Action, Drama, History",29
+"Action, Drama, War",30
+"Comedy, Family",31
+"Adventure, Horror, Mystery",32
+"Action, Sci-Fi",33
+"Crime, Mystery, Thriller",34
+War,35
+Sport,36
+"Biography, Drama, History",37
+"Horror, Romance",38
+"Crime, Drama",39
+"Drama, Romance",40
+"Adventure, Drama",41
+"Comedy, Mystery, Thriller",42
+"Action, Crime, Drama",43
+"Crime, Thriller",44
+"Horror, Sci-Fi, Thriller",45
+"Crime, Drama, Thriller",46
+"Drama, Mystery, Thriller",47
+"Drama, Sport",48
+"Drama, Family, Musical",49
+"Action, Comedy",50
+"Comedy, Thriller",51
+"Action, Adventure, Fantasy",52
+"Drama, Romance, Thriller",53
+"Action, Drama",54
+"Drama, Horror, Musical",55
+"Action, Biography, Drama",56
+"Adventure, Comedy, Drama",57
+Mystery,58
+"Action, Fantasy, Mystery",59
+"Adventure, Drama, Mystery",60
+"Mystery, Thriller",61
+Adventure,62
+"Drama, Musical, Thriller",63
+"Comedy, Crime, Drama",64
+"Musical, Romance",65
+"Documentary, Music",66
+"Documentary, History, Music",67
+"Drama, Fantasy, Mystery",68
+"Drama, Family, Sport",69
+"Drama, Thriller",70
+"Documentary, Biography",71
+"Action, Adventure, Comedy",72
+Romance,73
+"Comedy, Drama, Music",74
+"Comedy, Horror, Mystery",75
+Musical,76
+"Musical, Romance, Drama",77
+"Family, Romance",78
+"Action, Sci-Fi, Thriller",79
+"Action, Drama, Romance",80
+"Mystery, Romance",81
+Fantasy,82
+Family,83
+"Drama, Family",84
+"Action, Comedy, Drama",85
+"Action, Drama, Thriller",86
+"Drama, Horror, Thriller",87
+"Drama, Musical, Romance",88
+"Comedy, Sci-Fi",89
+"Action, Romance",90
+"Action, Crime",91
+"Action, Drama, Crime",92
+"Drama, Family, Music",93
+"Action, Mystery, Thriller",94
+"Action, Drama, Family",95
+"Action, Mystery",96
+"Drama, History, Romance",97
+"Crime, Drama, Music",98
+Sci-Fi,99
+Animation,100
+"Crime, Mystery, Romance",101
+"Action, Adventure, Romance",102
+"Music, Romance",103
+"Action, Comedy, Crime",104
+"Comedy, Family, Fantasy",105
+"Romance, Drama",106
+"Drama, Family, Romance",107
+"Romance, Drama, Family",108
+"Musical, Romance, Thriller",109
+"Family, Musical, Romance",110
+"Action, Drama, Fantasy",111
+"Family, Drama",112
+"Crime, Drama, Romance",113
+"Musical, Drama, Romance",114
+"Drama, Music, Musical",115
+"Drama, Mystery",116
+"Adventure, Comedy, Romance",117
+"Crime, Drama, Horror",118
+"Family, Music, Musical",119
+"Action, Musical, Thriller",120
+"Action, Romance, Thriller",121
+"Romance, Thriller",122
+"Drama, Music",123
+"Crime, Drama, Musical",124
+"Action, Crime, Mystery",125
+"Action, Adventure, Thriller",126
+"Comedy, Romance, Sci-Fi",127
+Crime,128
+"Action, Drama, Mystery",129
+"Action, Comedy, Thriller",130
+"Biography, Drama",131
+"Action, Comedy, Fantasy",132
+"Drama, Family, Horror",133
+"Action, Adventure, Family",134
+"Documentary, Biography, Musical",135
+"Action, Drama, Musical",136
+"Adventure, Thriller",137
+"Crime, Mystery",138
+"Drama, Crime",139
+"Drama, Fantasy, Romance",140
+"Comedy, Romance, Thriller",141
+"Musical, Comedy, Drama",142
+"Biography, History, War",143
+"Action, Comedy, Romance",144
+"Drama, History, Musical",145
+"Action, Crime, Horror",146
+"Adventure, Fantasy",147
+"Adventure, Drama, Fantasy",148
+"Adventure, Fantasy, Romance",149
+"Action, Adventure, Drama",150
+"Action, Adventure",151
+"Comedy, Crime",152
+"Crime, Drama, Fantasy",153
+"Adventure, Drama, Romance",154
+History,155
+"Drama, Fantasy, Thriller",156
+"Musical, Fantasy",157
+"Documentary, Thriller",158
+"Mystery, Romance, Musical",159
+"Family, Drama, Romance",160
+"History, Musical, Romance",161
+"Musical, Drama, Crime",162
+"Adventure, Crime, Romance",163
+"Musical, Thriller, Mystery",164
+"Drama, Comedy",165
+"Biography, Drama, Romance",166
+"Biography, Music",167
+"Biography, Drama, Music",168
+"Drama, Sci-Fi",169
+"Drama, Family, Thriller",170
+"Comedy, Musical, Romance",171
+"Drama, Family, Comedy",172
+"Action, Thriller, Romance",173
+"Animation, Adventure",174
+"Action, Crime, Musical",175
+"Action, Crime, Romance",176
+"Animation, Action, Adventure",177
+"Action, Drama, Sport",178
+"Comedy, History",179
+"Documentary, History",180
+"Drama, Comedy, Family",181
+"Action, Adventure, Crime",182
+"Documentary, Biography, Music",183
+"Comedy, Musical",184
+"Biography, Crime, Thriller",185
+"Adventure, Mystery, Thriller",186
+"Biography, Drama, Sport",187
+"Action, Comedy, Musical",188
+"Mystery, Romance, Thriller",189
+"Action, Adventure, Musical",190
+"Crime, Musical, Mystery",191
+"Action, Thriller, Crime",192
+"Adventure, Comedy, Crime",193
+"Comedy, Horror, Musical",194
+"Adventure, Family",195
+"Family, Thriller",196
+"Drama, Action, Crime",197
+"Drama, War",198
+"Action, Drama, Adventure",199
+"Adventure, Fantasy, History",200
+"Fantasy, Musical",201
+"Comedy, Drama, Thriller",202
+"Drama, Fantasy",203
+"Musical, Drama",204
+"Action, Drama, Horror",205
+"Biography, Crime, Drama",206
+"Action, Drama, Music",207
+"Adventure, Drama, Family",208
+"Drama, Romance, Musical",209
+"Comedy, Musical, Drama",210
+"Adventure, Comedy, Musical",211
+"Crime, Drama, Family",212
+"Thriller, Musical, Mystery",213
+"Documentary, Adventure, Crime",214
+"Drama, Action, Horror",215
+"Adventure, Crime, Drama",216
+"Documentary, Biography, Sport",217
+"Crime, Fantasy, Mystery",218
+"Documentary, Biography, Drama",219
+"Action, Fantasy, Thriller",220
+"Adventure, Drama, History",221
+"Animation, Drama, History",222
+"Comedy, Horror, Thriller",223
+"Drama, Family, History",224
+"Animation, History",225
+"Biography, Drama, Musical",226
+Music,227
+"Family, Comedy",228
+"Adventure, Mystery",229
+"Family, Fantasy",230
+"Documentary, History, News",231
+"Drama, Mystery, Romance",232
+"Comedy, Fantasy",233
+"Action, Crime, Family",234
+"Drama, Musical, Mystery",235
+"Action, Thriller, Mystery",236
+"Drama, Family, Fantasy",237
+"Action, Family",238
+"Action, Adventure, Mystery",239
+"Horror, Fantasy",240
+"Comedy, Action",241
+"Adventure, Romance",242
+"Drama, Adventure",243
+"Animation, Drama, Romance",244
+"Comedy, Crime, Romance",245
+"Adventure, Comedy",246
+"Comedy, Drama, Sport",247
+"Documentary, Crime, History",248
+"Musical, Mystery, Drama",249
+"Adventure, Drama, Sci-Fi",250
+"Action, Romance, Western",251
+"Comedy, Fantasy, Romance",252
+"Animation, Action, Comedy",253
+"Drama, Fantasy, Sci-Fi",254
+"Drama, Horror",255
+"Family, Drama, Comedy",256
+"Action, Adventure, History",257
+"Comedy, Family, Romance",258
+"Biography, History",259
+"Animation, Family",260
+"Drama, Fantasy, History",261
+"Animation, Adventure, Fantasy",262
+"Adventure, Comedy, Family",263
+"Drama, History, War",264
+"Animation, Drama, Fantasy",265
+"Action, Musical, Romance",266
+"Crime, Action, Drama",267
+"Comedy, Romance, Musical",268
+"Fantasy, Drama",269
+"Musical, Action, Crime",270
+"Documentary, Drama",271
+"Action, Horror, Thriller",272
+"Action, Horror, Sci-Fi",273
+"Mystery, Sci-Fi, Thriller",274
+"Biography, Family",275
+"Drama, Action, Comedy",276
+"Drama, Music, Romance",277
+"Action, Biography, Crime",278
+"Adventure, Drama, Musical",279
+"Family, Music, Romance",280
+"Fantasy, Mystery, Romance",281
+"Drama, Crime, Family",282
+"Drama, Family, Action",283
+"Romance, Comedy, Drama",284
+"Animation, Adventure, Comedy",285
+"Sci-Fi, Thriller",286
+"Romance, Family, Drama",287
+"Action, Family, Thriller",288
+"Adventure, Crime, Thriller",289
+"Drama, Romance, Sport",290
+"Comedy, Crime, Mystery",291
+"Adventure, Comedy, Mystery",292
+"Action, Fantasy",293
+"Comedy, Mystery",294
+"Animation, Adventure, Family",295
+"Adventure, Drama, Music",296
+"Biography, Drama, War",297
+"Documentary, Comedy, Drama",298
+"Musical, Drama, Family",299
+"Animation, Comedy, Drama",300
+"Fantasy, Musical, Drama",301
+"Adventure, Crime, Mystery",302
+"Comedy, Drama, Mystery",303
+"Documentary, News",304
+"Drama, Musical, Family",305
+"Action, Romance, Drama",306
+"Comedy, Crime, Thriller",307
+"Action, Musical",308
+"Action, History",309
+"Action, Comedy, Mystery",310
+"Drama, Family, Mystery",311
+"Adventure, Drama, Thriller",312
+"Documentary, Reality-TV",313
+"Action, Fantasy, Horror",314
+"Drama, History, Thriller",315
+"Documentary, Family",316
+"Documentary, Biography, Family",317
+"Comedy, Sport",318
+"Animation, Comedy, Family",319
+"Crime, Romance, Thriller",320
+"Comedy, Musical, Action",321
+"Action, Mystery, Sci-Fi",322
+"Comedy, Crime, Musical",323
+"Drama, Adventure, Action",324
+"History, Romance",325
+Reality-TV,326
+"Fantasy, History",327
+"Family, Drama, Thriller",328
+"Musical, Mystery, Thriller",329
+"Musical, Comedy, Romance",330
+"Musical, Action, Drama",331
+"Action, Musical, War",332
+"Romance, Comedy",333
+"Horror, Crime, Thriller",334
+"Crime, Drama, History",335
+"Comedy, Drama, Horror",336
+"Crime, Horror, Thriller",337
+"Animation, Comedy",338
+"Romance, Action, Crime",339
+"Musical, Thriller",340
+"Action, Romance, Comedy",341
+"Comedy, Family, Musical",342
+"Horror, Drama, Mystery",343
+"Thriller, Mystery, Family",344
+"Comedy, Drama, Sci-Fi",345
+"Documentary, Adventure",346
+"Documentary, Biography, Crime",347
+"Musical, Action",348
+"Musical, Mystery",349
+"Action, Crime, Sci-Fi",350
+"Action, Horror, Mystery",351
+"Fantasy, Horror",352
+"Adventure, Family, Fantasy",353
+"Fantasy, Sci-Fi",354
+"Comedy, War",355
+"Romance, Action, Drama",356
+"Musical, Family, Romance",357
+"Romance, Drama, Action",358
+"Family, Comedy, Drama",359
+"Comedy, Music, Romance",360
+"Comedy, Family, Sci-Fi",361
+"Action, Drama, Western",362
+"Adventure, Romance, Thriller",363
+"Biography, Comedy, Drama",364
+"Action, Mystery, Romance",365
+"Romance, Sport",366
+"Crime, Romance",367
+"Action, Thriller, Western",368
+"Crime, Musical, Romance",369
+"Romance, Thriller, Mystery",370
+"Drama, Crime, Mystery",371
+"Biography, Drama, Family",372
+"Action, Family, Mystery",373
+"Comedy, Mystery, Romance",374
+"Drama, Thriller, Action",375
+"Documentary, Short",376
+"Documentary, Western",377
+"Musical, Family, Drama",378
+"Action, Family, Musical",379
+"Animation, Family, Musical",380
+"Drama, Fantasy, Horror",381
+"Action, Adventure, Sci-Fi",382
+"Drama, Action, Musical",383
+"Drama, Musical, Sport",384
+"Action, Comedy, Horror",385
+"Drama, Fantasy, Musical",386
+"Action, Fantasy, Musical",387
+"Animation, Action",388
+"Comedy, Music",389
+"Documentary, Drama, Romance",390
+"Drama, Music, Thriller",391
+"Fantasy, Musical, Mystery",392
+"Drama, Fantasy, War",393
+"Action, War",394
+"Action, Adventure, War",395
+"Horror, Musical",396
+"Fantasy, Mystery, Thriller",397
+"Adventure, Biography, Drama",398
+"Family, Romance, Sci-Fi",399
+"Drama, Romance, Family",400
+"Animation, Adventure, Drama",401
+"Family, Romance, Drama",402
+"Animation, Action, Sci-Fi",403
+"Adventure, Comedy, Fantasy",404
+"Comedy, Crime, Family",405
+"Horror, Musical, Thriller",406
+"Biography, Drama, Thriller",407
+"Drama, Western",408
+"Romance, Sci-Fi, Thriller",409
+"Comedy, Musical, Family",410
+"Comedy, Horror, Romance",411
+"Thriller, Action",412
+"Fantasy, Thriller, Action",413
+"Fantasy, Romance",414
+"Action, Drama, Comedy",415
+"Family, Fantasy, Romance",416
+"Comedy, Crime, Horror",417
+"Horror, Mystery, Sci-Fi",418
+"Animation, Action, Drama",419
+"Family, Mystery",420
+"Adventure, Biography, History",421
+"Fantasy, Horror, Mystery",422
+"Family, Musical",423
+"Drama, Family, Adventure",424
+"Crime, Horror, Mystery",425
+"Documentary, Drama, Fantasy",426
+"Action, Adventure, Biography",427
+"Biography, History, Thriller",428
+"Action, Family, Drama",429
+"Documentary, Drama, Sport",430
+"Thriller, Mystery",431
+"Musical, Drama, Comedy",432
+"Documentary, History, War",433
+"Adventure, Horror, Thriller",434
+"Action, Adventure, Horror",435
+"Action, Crime, War",436
+"Adventure, Musical, Romance",437
+"Action, Fantasy, Sci-Fi",438
+"Drama, Comedy, Action",439
+"Documentary, Sport",440
+"Documentary, Adventure, Music",441
+"Drama, Action, Family",442
+"Adventure, History, Thriller",443
+"Adventure, Horror, Romance",444
+"Adventure, Crime, Horror",445
+"Mystery, Musical, Romance",446
+"Action, Crime, History",447
+"Documentary, Musical",448
+"Adventure, Fantasy, Musical",449
+"Documentary, Family, History",450
+"Documentary, Drama, Family",451
+"Drama, Mystery, Sci-Fi",452
+"Animation, Drama, Musical",453
+"Drama, History, Mystery",454
+"Drama, Sport, Thriller",455
+"Action, Crime, Fantasy",456
+"Comedy, Musical, Mystery",457
+"Romance, Musical, Action",458
+"Musical, Drama, Fantasy",459
+"Animation, Family, History",460
+"Action, Drama, News",461
+"Romance, Musical, Comedy",462
+"Adventure, Fantasy, Horror",463
+"Adventure, History",464
+"Comedy, Drama, History",465
+"Mystery, Sci-Fi",466
+"Action, Thriller, War",467
+"Documentary, Drama, News",468
+"Documentary, Crime, Mystery",469
+"Adventure, Horror",470
+"Animation, Drama, Adventure",471
+"Crime, Horror, Romance",472
+"Documentary, Adventure, Drama",473
+"Documentary, Biography, History",474
+"Fantasy, Horror, Romance",475
+"Comedy, Fantasy, Musical",476
+"Crime, Musical, Thriller",477
+"Documentary, War",478
+"Action, Comedy, War",479
+"Crime, Drama, Sport",480
+"Musical, Adventure, Drama",481
+"Horror, Romance, Sci-Fi",482
+"Musical, Mystery, Romance",483
+"Romance, Musical, Drama",484
+"Adventure, Fantasy, Sci-Fi",485
