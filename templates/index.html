@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movie Rating Prediction</title>
+</head>
+<body>
+    <h2>Movie Rating Prediction</h2>
+    <form method="POST" action="/predict">
+        <label for="year">Year:</label>
+        <input type="number" id="year" name="year"><br><br>
+        <label for="votes">Votes:</label>
+        <input type="number" id="votes" name="votes"><br><br>
+        <label for="genre">Genre:</label>
+        <input type="number" id="genre" name="genre"><br><br>
+        <label for="director">Director:</label>
+        <input type="number" id="director" name="director"><br><br>
+        <label for="actor1">Actor 1:</label>
+        <input type="number" id="actor1" name="actor1"><br><br>
+        <label for="actor2">Actor 2:</label>
+        <input type="number" id="actor2" name="actor2"><br><br>
+        <label for="actor3">Actor 3:</label>
+        <input type="number" id="actor3" name="actor3"><br><br>
+        <input type="submit" value="Predict">
+    </form>
+    {% if prediction_text %}
+    <h3>{{ prediction_text }}</h3>
+    {% endif %}
+</body>
+</html>
