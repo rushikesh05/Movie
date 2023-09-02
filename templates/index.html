@@ -2,9 +2,104 @@
 <html>
 <head>
     <title>Movie Rating Prediction</title>
+<style>
+    /* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    background: linear-gradient(45deg, red 50%, white 50%); /* Blue and purple mix */
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+]}
+
+header {
+    text-align: center;
+    padding: 20px;
+
+}
+
+main {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+form {
+    margin: 20px;
+    width:800px;
+    margin-left:450px;
+    padding: 20px;
+
+    justify-content:center;
+    background-color: #fff;
+    border-radius: 25px;
+    box-shadow: 15px 10px 15px 10px  rgba(0, 0, 0, 0.2);
+}
+
+label {
+    display: block;
+    font-size:24px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    margin:10px;
+}
+    h1 {
+        color: #333;
+        padding-bottom: 30px;
+        margin-bottom: 20px;
+        font-weight: bold;
+        font-size:40px;
+        background: linear-gradient(45deg, red 40%, black 60%); /* Blue and purple mix */
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        padding: 20px;  
+}
+h3 {
+    color:white;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size:40px;
+    padding: 20px;  
+}
+input[type="number"] {
+    width:80%;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size:24px;
+    background: linear-gradient(45deg, white 70%, red 30%); /* Blue and purple mix */
+
+    border: 2px solid #ccc;
+    border-radius: 25px;
+}
+
+input[type="submit"] {
+    background-color: #ffcc00;
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    font-size:30px;
+    border-radius: 5px;
+    cursor: pointer;
+    background: linear-gradient(45deg, red 90%, white 10%); /* Blue and purple mix */
+    box-shadow: 5px 15px 10px rgba(0, 0, 0, 0.2);
+
+    transition: background-color 0.3s;
+}
+
+input[type="submit"]:hover {
+    background-color: #ff9900;
+
+}
+
+</style>
 </head>
 <body>
-    <h2>Movie Rating Prediction</h2>
+    <h1>Movie Rating Prediction</h1>
     <form method="POST" action="/predict">
         <label for="year">Year:</label>
         <input type="number" id="year" name="year"><br><br>
